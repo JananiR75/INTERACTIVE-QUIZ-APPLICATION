@@ -12,7 +12,7 @@
 
 **MENTOR NAME**: NEELA SANTHOSH
 
-**DESCRIPTION**:
+# DESCRIPTION
 
 The interactive quiz application is a simple, user-friendly web project built entirely using HTML, CSS, and JavaScript. It is designed to test users’ knowledge across various topics through a series of multiple-choice questions, providing real-time feedback and score tracking. The application runs completely in the browser without requiring any backend or database, making it lightweight and easy to deploy.
 
@@ -25,4 +25,9 @@ The application supports multiple domains or categories of questions, and users 
 No external libraries or frameworks are used in this project, making it ideal for beginners learning the core concepts of web development. It can be easily hosted on platforms like GitHub Pages, Netlify, or any static web hosting service. Resources for development include browser developer tools for testing, free icons and fonts for styling, and sample question sets for quiz content.
 
 This project demonstrates a strong understanding of the fundamentals of front-end web development and is an excellent addition to a portfolio. It showcases skills in DOM manipulation, event handling, styling, and interactive UI creation using only vanilla HTML, CSS, and JavaScript.
+
+# output of the task
+
+![Image](https://github.com/user-attachments/assets/85b7e45d-5eb4-4e7b-8958-74eee6c54ffa)
+
 
